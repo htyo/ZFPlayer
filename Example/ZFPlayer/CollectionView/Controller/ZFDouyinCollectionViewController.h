@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <ZFPlayer/UIScrollView+ZFPlayer.h>
+#import <ZFPlayer_htyo/UIScrollView+ZFPlayer.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

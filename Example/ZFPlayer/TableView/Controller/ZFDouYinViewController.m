@@ -7,10 +7,10 @@
 //
 
 #import "ZFDouYinViewController.h"
-#import <ZFPlayer/ZFAVPlayerManager.h>
-#import <ZFPlayer/ZFIJKPlayerManager.h>
-#import <ZFPlayer/ZFPlayerControlView.h>
-#import <ZFPlayer/ZFPlayerConst.h>
+#import <ZFPlayer_htyo/ZFAVPlayerManager.h>
+#import <ZFPlayer_htyo/ZFIJKPlayerManager.h>
+#import <ZFPlayer_htyo/ZFPlayerControlView.h>
+#import <ZFPlayer_htyo/ZFPlayerConst.h>
 #import "ZFTableViewCellLayout.h"
 #import "ZFTableData.h"
 #import "ZFDouYinCell.h"

@@ -1,18 +1,18 @@
 {
-  "name": "ZFPlayer",
-  "version": "4.1.4",
-  "summary": "A good player made by renzifeng",
-  "homepage": "https://github.com/renzifeng/ZFPlayer",
+  "name": "ZFPlayer_htyo",
+  "version": "4.1.5",
+  "summary": "A good player made by renzifeng,",
+  "homepage": "https://github.com/htyo/ZFPlayer",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "renzifeng": "zifeng1300@gmail.com"
+    "htyo": "arno.yy.chen@icloud.com"
   },
   "source": {
-    "git": "https://github.com/renzifeng/ZFPlayer.git",
-    "tag": "4.1.4"
+    "git": "https://github.com/htyo/ZFPlayer.git",
+    "tag": "4.1.5"
   },
   "social_media_url": "http://weibo.com/zifeng1300",
   "platforms": {
@@ -20,6 +20,7 @@
   },
   "requires_arc": true,
   "static_framework": true,
+  "default_subspecs": "Core",
   "pod_target_xcconfig": {
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
   },
@@ -64,6 +65,9 @@
       "public_header_files": "ZFPlayer/Classes/ijkplayer/*.h",
       "dependencies": {
         "ZFPlayer/Core": [
+
+        ],
+        "IJKMediaFramework": [
 
         ]
       }

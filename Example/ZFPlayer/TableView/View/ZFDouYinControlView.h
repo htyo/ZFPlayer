@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <ZFPlayer/ZFPlayerMediaControl.h>
+#import <ZFPlayer_htyo/ZFPlayerMediaControl.h>
 
 @interface ZFDouYinControlView : UIView <ZFPlayerMediaControl>
 

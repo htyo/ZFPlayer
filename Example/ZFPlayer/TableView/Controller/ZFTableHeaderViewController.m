@@ -8,11 +8,11 @@
 
 #import "ZFTableHeaderViewController.h"
 #import "ZFTableHeaderView.h"
-#import <ZFPlayer/ZFAVPlayerManager.h>
-#import <ZFPlayer/ZFPlayerControlView.h>
-#import <ZFPlayer/ZFIJKPlayerManager.h>
-#import <ZFPlayer/UIView+ZFFrame.h>
-#import <ZFPlayer/ZFPlayerConst.h>
+#import <ZFPlayer_htyo/ZFAVPlayerManager.h>
+#import <ZFPlayer_htyo/ZFPlayerControlView.h>
+#import <ZFPlayer_htyo/ZFIJKPlayerManager.h>
+#import <ZFPlayer_htyo/UIView+ZFFrame.h>
+#import <ZFPlayer_htyo/ZFPlayerConst.h>
 #import "ZFPlayerDetailViewController.h"
 #import "ZFTableData.h"
 #import "ZFOtherCell.h"

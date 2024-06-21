@@ -7,7 +7,7 @@
 //
 
 #import "ZFCollectionViewCell.h"
-#import <ZFPlayer/UIImageView+ZFCache.h>
+#import <ZFPlayer_htyo/UIImageView+ZFCache.h>
 
 @implementation ZFCollectionViewCell
 

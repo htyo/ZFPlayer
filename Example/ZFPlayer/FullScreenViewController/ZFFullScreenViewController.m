@@ -7,10 +7,10 @@
 //
 
 #import "ZFFullScreenViewController.h"
-#import <ZFPlayer/ZFAVPlayerManager.h>
-#import <ZFPlayer/ZFIJKPlayerManager.h>
-#import <ZFPlayer/ZFPlayerControlView.h>
-#import <ZFPlayer/ZFPlayerConst.h>
+#import <ZFPlayer_htyo/ZFAVPlayerManager.h>
+#import <ZFPlayer_htyo/ZFIJKPlayerManager.h>
+#import <ZFPlayer_htyo/ZFPlayerControlView.h>
+#import <ZFPlayer_htyo/ZFPlayerConst.h>
 #import "ZFSmallPlayViewController.h"
 
 static NSString *kVideoCover = @"https://upload-images.jianshu.io/upload_images/635942-14593722fe3f0695.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240";

@@ -9,11 +9,11 @@
 Pod::Spec.new do |s|
     s.name             = 'ZFPlayer_htyo'
     s.version          = '4.1.5'
-    s.summary          = 'A good player made by renzifeng'
-    s.homepage         = 'https://github.com/renzifeng/ZFPlayer'
+    s.summary          = 'A good player made by renzifeng,'
+    s.homepage         = 'https://github.com/htyo/ZFPlayer'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'htyo' => 'arno.yy.chen@icloud.com' }
-    s.source           = { :git => 'https://github.com/htyo/ZFPlayer', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/htyo/ZFPlayer.git', :tag => s.version.to_s }
     s.social_media_url = 'http://weibo.com/zifeng1300'
     s.ios.deployment_target = '8.0'
     s.requires_arc = true

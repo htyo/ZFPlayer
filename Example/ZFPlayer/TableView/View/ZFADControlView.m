@@ -7,9 +7,9 @@
 //
 
 #import "ZFADControlView.h"
-#import <ZFPlayer/UIView+ZFFrame.h>
-#import <ZFPlayer/ZFUtilities.h>
-#import <ZFPlayer/ZFPlayerController.h>
+#import <ZFPlayer_htyo/UIView+ZFFrame.h>
+#import <ZFPlayer_htyo/ZFUtilities.h>
+#import <ZFPlayer_htyo/ZFPlayerController.h>
 
 
 @interface ZFADControlView ()

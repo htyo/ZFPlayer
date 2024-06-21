@@ -170,7 +170,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  When the gesture longPress changed
  */
-- (void)longPressed:(ZFPlayerGestureControl *)gestureControl state:(ZFLongPressGestureRecognizerState)state;
+- (void)longPressed:(ZFPlayerGestureControl *)gestureControl state:(NSInteger)state;
 
 #pragma mark - scrollview
 

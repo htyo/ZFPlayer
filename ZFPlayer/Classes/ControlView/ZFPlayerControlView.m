@@ -432,7 +432,7 @@
     }
 }
 
-- (void)longPressed:(ZFPlayerGestureControl *)gestureControl state:(ZFLongPressGestureRecognizerState)state {
+- (void)longPressed:(ZFPlayerGestureControl *)gestureControl state:(NSInteger)state {
     
 }
 

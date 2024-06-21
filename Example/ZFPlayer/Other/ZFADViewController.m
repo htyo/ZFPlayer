@@ -7,11 +7,11 @@
 //
 
 #import "ZFADViewController.h"
-#import <ZFPlayer/ZFAVPlayerManager.h>
-#import <ZFPlayer/ZFIJKPlayerManager.h>
-#import <ZFPlayer/ZFPlayerControlView.h>
-#import <ZFPlayer/UIView+ZFFrame.h>
-#import <ZFPlayer/ZFPlayerConst.h>
+#import <ZFPlayer_htyo/ZFAVPlayerManager.h>
+#import <ZFPlayer_htyo/ZFIJKPlayerManager.h>
+#import <ZFPlayer_htyo/ZFPlayerControlView.h>
+#import <ZFPlayer_htyo/UIView+ZFFrame.h>
+#import <ZFPlayer_htyo/ZFPlayerConst.h>
 #import "UIImageView+ZFCache.h"
 #import "ZFUtilities.h"
 #import "ZFADControlView.h"

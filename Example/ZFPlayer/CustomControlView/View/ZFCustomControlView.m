@@ -9,8 +9,8 @@
 #import "ZFCustomControlView.h"
 #import "UIView+ZFFrame.h"
 #import "ZFUtilities.h"
-#import <ZFPlayer/ZFPlayerController.h>
-#import <ZFPlayer/ZFPlayerConst.h>
+#import <ZFPlayer_htyo/ZFPlayerController.h>
+#import <ZFPlayer_htyo/ZFPlayerConst.h>
 #import "ZFSliderView.h"
 #import "UIImageView+ZFCache.h"
 

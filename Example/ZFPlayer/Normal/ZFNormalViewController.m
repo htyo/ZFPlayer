@@ -7,13 +7,13 @@
 //
 
 #import "ZFNormalViewController.h"
-#import <ZFPlayer/ZFAVPlayerManager.h>
-#import <ZFPlayer/ZFIJKPlayerManager.h>
-#import <ZFPlayer/ZFPlayerControlView.h>
+#import <ZFPlayer_htyo/ZFAVPlayerManager.h>
+#import <ZFPlayer_htyo/ZFIJKPlayerManager.h>
+#import <ZFPlayer_htyo/ZFPlayerControlView.h>
 #import "ZFNotAutoPlayViewController.h"
-#import <ZFPlayer/UIView+ZFFrame.h>
-#import <ZFPlayer/UIImageView+ZFCache.h>
-#import <ZFPlayer/ZFPlayerConst.h>
+#import <ZFPlayer_htyo/UIView+ZFFrame.h>
+#import <ZFPlayer_htyo/UIImageView+ZFCache.h>
+#import <ZFPlayer_htyo/ZFPlayerConst.h>
 #import "ZFUtilities.h"
 @import AVKit;
 

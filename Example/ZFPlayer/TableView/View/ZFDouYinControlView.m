@@ -7,12 +7,12 @@
 //
 
 #import "ZFDouYinControlView.h"
-#import <ZFPlayer/UIView+ZFFrame.h>
-#import <ZFPlayer/UIImageView+ZFCache.h>
-#import <ZFPlayer/ZFUtilities.h>
+#import <ZFPlayer_htyo/UIView+ZFFrame.h>
+#import <ZFPlayer_htyo/UIImageView+ZFCache.h>
+#import <ZFPlayer_htyo/ZFUtilities.h>
 #import "ZFLoadingView.h"
-#import <ZFPlayer/ZFSliderView.h>
-#import <ZFPlayer/ZFPlayerController.h>
+#import <ZFPlayer_htyo/ZFSliderView.h>
+#import <ZFPlayer_htyo/ZFPlayerController.h>
 
 @interface ZFDouYinControlView ()
 

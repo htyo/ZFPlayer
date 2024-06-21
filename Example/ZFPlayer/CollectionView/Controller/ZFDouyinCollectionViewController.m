@@ -9,10 +9,10 @@
 #import "ZFDouyinCollectionViewController.h"
 #import "ZFDouyinCollectionViewCell.h"
 #import "ZFTableData.h"
-#import <ZFPlayer/ZFAVPlayerManager.h>
-#import <ZFPlayer/ZFPlayerControlView.h>
-#import <ZFPlayer/UIView+ZFFrame.h>
-#import <ZFPlayer/ZFPlayerConst.h>
+#import <ZFPlayer_htyo/ZFAVPlayerManager.h>
+#import <ZFPlayer_htyo/ZFPlayerControlView.h>
+#import <ZFPlayer_htyo/UIView+ZFFrame.h>
+#import <ZFPlayer_htyo/ZFPlayerConst.h>
 #import "UINavigationController+FDFullscreenPopGesture.h"
 #import "ZFDouYinControlView.h"
 #import "ZFDouYinCellDelegate.h"
